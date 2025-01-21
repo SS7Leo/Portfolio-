@@ -84,7 +84,7 @@ const Contact = () => {
           <label className="block text-left mb-2">Name</label>
           <input
             type="text"
-            name="user_name"
+            name="Name"
             className="w-full p-2 border rounded focus:border-blue-600 focus:ring-2 focus:ring-blue-600 text-gray-800"
             required
           />
@@ -98,7 +98,7 @@ const Contact = () => {
           <label className="block text-left mb-2">E-mail</label>
           <input
             type="email"
-            name="user_email"
+            name="E-mail"
             className="w-full p-2 border rounded focus:border-blue-600 focus:ring-2 focus:ring-blue-600 text-gray-800"
             required
           />
